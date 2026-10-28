@@ -131,16 +131,6 @@ img {
   gap: 24px;
 }
 
-.tarjeta {
-  display: flex;
-  flex-direction: column;
-  background-color: #ffffff;
-  border-radius: 10px;
-  box-shadow: var(--sombra);
-  overflow: hidden;
-  cursor: pointer;
-  transition: transform 0.15s ease, box-shadow 0.15s ease;
-}
 
 
 .tarjeta__imagen {
