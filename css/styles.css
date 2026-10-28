@@ -142,10 +142,6 @@ img {
   transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
 
-.tarjeta:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 6px 14px rgba(26, 32, 44, 0.16);
-}
 
 .tarjeta__imagen {
   height: 210px;
